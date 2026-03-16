@@ -78,6 +78,6 @@ This approach would preserve the **open nature of the exchange**, while still al
 
 ## Voting
 
-- **Vote YES** to allow **permissionless liquidity pool creation** for tokens on QSWAP.
+- **Vote YES** to allow **permissionless liquidity pool creation** for tokens on QSWAP, allowing anyone to create a QCAP liquidity pool. 
 - **Vote NO** to **keep pool creation restricted to the token issuer** at this stage.  
   This option also covers those who support exploring **alternative compromise solutions**, such as allowing tokens to opt out of permissionless pool creation while keeping it enabled by default for others.
