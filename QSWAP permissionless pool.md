@@ -1,5 +1,4 @@
-# Qubic Capital Governance Proposal  
-## Permissionless Liquidity Pool Creation for QCAP
+# Permissionless Liquidity Pool Creation in QSWAP
 
 ## Background
 
